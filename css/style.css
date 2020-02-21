@@ -1,7 +1,16 @@
 header{font-size: medium;background-color: blueviolet;
-border: coral;}
+border: coral;
+text-align: center;
+padding: 5px;
+}
 footer{
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
     background-color: cornflowerblue;
+    text-align: center;
+    padding: 4px;
+    font-size: medium;
+}
+body{
+    background-color: darkgrey;
 }
